@@ -1,0 +1,21 @@
+import { readFileSync } from 'node:fs';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+const nodes=new Map(),storage=new Map();
+const node=s=>{if(!nodes.has(s))nodes.set(s,{innerHTML:'',textContent:'',value:'',checked:false,dataset:{},classList:{toggle(){}},scrollIntoView(){}});return nodes.get(s)};
+const context=vm.createContext({document:{querySelector:node,querySelectorAll:()=>[]},location:{search:'?view=checklist&detail=34&seed=13'},localStorage:{getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)},URLSearchParams,window:{},requestAnimationFrame:f=>f(),setTimeout,URL,Blob,console});
+vm.runInContext(readFileSync('app/app.js','utf8'),context);
+function run(s){return vm.runInContext(s,context)}
+assert.equal(run('earned.size'),13);assert.equal(run('selected'),34);assert(run('window.__shotReady'));
+assert(run('detail().includes("Rob 3 shops")'));assert(run('detail().includes("PSNProfiles")'));
+assert(run('hidden(trophies[21])'));assert(!run('hidden(trophies[1])'));
+assert(!run('list().includes("Road to Rehabilitation")'));
+assert.equal(run('filters.q="Retail Therapy"; (list().match(/class="trophy-row/g)||[]).length'),1);
+assert.equal(run('filters.q="";filters.kind="missable";(list().match(/class="trophy-row/g)||[]).length'),6);
+assert.equal(run('filters.kind="all";filters.hide=true;(list().match(/class="trophy-row/g)||[]).length'),42);
+assert.equal(run('(roadmap().match(/class="stage-card/g)||[]).length'),5);
+assert.equal(run('(missables().match(/class="watch-card/g)||[]).length'),6);
+run('toggle(34)');assert.equal(run('earned.size'),14);assert.equal(JSON.parse(storage.get('leonida-ledger-v1')).earned.length,14);
+run('toggle(34)');assert.equal(run('earned.size'),13);
+run('spoilers=false');assert(!run('hidden(trophies[21])'));assert(run('roadmap().includes("Road to Rehabilitation")'));
+console.log('PASS: deterministic seed, exact guide/source display, spoiler conceal/reveal, text search, conditional-kind filter, hide earned, roadmap, warnings, checkbox persistence. DOM stub only; visual browser verification remains required.');

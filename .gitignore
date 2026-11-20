@@ -1,0 +1,7 @@
+# Local builds and competition tooling
+out/
+out2/
+node_modules/
+gta6-trophy-guide-01-kit/
+*.tar.gz
+.DS_Store

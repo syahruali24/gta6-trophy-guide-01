@@ -1,0 +1,848 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "guide": "Earn every other trophy in this list, then verify the platinum unlock in your platform trophy screen. Use the five roadmap stages to separate story progress from activities and cleanup; the description does not specify additional conditions.",
+      "kind": "activity",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "guide": "Complete Gone Fishing during your story run. The description names this mission but gives no route or objectives, so follow the in-game mission instructions; it does not establish a missable condition.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "guide": "Advance the story until Chapter 1 is complete. Check the chapter result before moving on; the description gives no specific location, optional objective, or missable condition.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 2 as part of the main story. The list does not describe its mission sequence or exact endpoint, so rely on in-game chapter progress rather than an assumed route.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "guide": "Finish Chapter 3 during the story stage of your run. No location or special completion method is stated; use the game's chapter progress to confirm completion.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 4 and check the trophy after the chapter closes. The description specifies no optional condition or exact mission route, so those details must be checked in game.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "guide": "Finish the final mission during the story stage. The description does not name the mission or specify an ending choice, so this guide cannot recommend a particular decision.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "guide": "Complete the mission Breakfast Run. Follow its in-game objectives; the trophy description does not supply a starting location, a special approach, or a missable condition.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "guide": "Complete The Cartel Heist during your story progress. The description does not require a particular method or result beyond completion, and does not identify its start point.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "guide": "Finish Child's Play and confirm the trophy in the platform list. The description gives only the mission name, so check in game for its location and objectives.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "guide": "Complete Headliners as you advance the story. No exact location or optional objective appears in the description; use the active mission instructions rather than an invented route.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "guide": "Finish VCIA Takedown during the story stage. The list does not describe the mission's location or steps, so follow the objectives shown in game and check the unlock afterward.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "guide": "Complete Operation Savage Glory. The description supplies no special completion condition or location; follow the mission instructions in game and verify the trophy afterward.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "guide": "Reach 100% Completion, using the in-game completion record to find what remains. The description does not define which activities contribute, so do not assume that finishing the trophy checklist alone guarantees this requirement.",
+      "kind": "activity",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": 100,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "guide": "Complete 250 Stunts and use the counter here to record confirmed progress. The description does not name stunt locations or explain which attempts qualify, so check the in-game result before adding progress.",
+      "kind": "activity",
+      "stage": 2,
+      "missable": false,
+      "warning": "",
+      "target": 250,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "guide": "Try each type of activity at least once. Keep a personal record of the types the game recognizes; the description does not state their number, names, or locations.",
+      "kind": "activity",
+      "stage": 2,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "guide": "Earn a gold medal in every Shooting Range challenge. Review the in-game challenge list for any result below gold; the description does not state the number of challenges or where each range is.",
+      "kind": "activity",
+      "stage": 2,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "guide": "Win a Top Fun Drone Race at every location. Record locations where you have a confirmed win; the description gives neither a location list nor a total, so check those in game.",
+      "kind": "activity",
+      "stage": 2,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "guide": "Win 20 different races, tracking distinct races rather than repeat wins. The description does not name race locations or unlock conditions; consult the in-game race list for your next uncompleted event.",
+      "kind": "activity",
+      "stage": 2,
+      "missable": false,
+      "warning": "",
+      "target": 20,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "guide": "Beat Cal in a fishing challenge. The description does not name the fishing spot or explain how the challenge becomes available, so check in game and confirm the result is a win.",
+      "kind": "activity",
+      "stage": 2,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "guide": "Complete an arcade game rather than stopping after starting it. The description does not identify a required game or arcade location; check the in-game completion result.",
+      "kind": "activity",
+      "stage": 2,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "guide": "Follow Andy's missions through the final mission and complete it. The description does not give a starting point, mission count, or availability window, so check the in-game mission record.",
+      "kind": "story",
+      "stage": 3,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Kenton after progressing that mission strand. Its location and prerequisites are not stated in the description; check the game for the next available objective.",
+      "kind": "story",
+      "stage": 3,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "guide": "Work through Billy's mission strand and finish the final mission. The description names no specific meeting place or availability window, so use the in-game mission record to track it.",
+      "kind": "story",
+      "stage": 3,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "guide": "Complete 8 mission strands for strangers across Leonida. Count finished strands rather than individual missions; the description does not name their start points or specify which strands qualify.",
+      "kind": "story",
+      "stage": 3,
+      "missable": false,
+      "warning": "",
+      "target": 8,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "guide": "Complete Randy's final mission after following that mission strand. No location, mission count, or availability condition is supplied, so check those details in game.",
+      "kind": "story",
+      "stage": 3,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "guide": "Finish the final mission for Tyrone. Follow the mission strand in game; the description does not establish its start location, length, or a deadline.",
+      "kind": "story",
+      "stage": 3,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "guide": "Meditate at every spot across Leonida. Record spots you have completed and check the in-game map or activity record for the rest; the description supplies no total or exact locations.",
+      "kind": "exploration",
+      "stage": 3,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "guide": "Hunt a unique animal for Bret. The description does not identify the animal or its habitat, so check Bret's in-game objective before choosing a target.",
+      "kind": "activity",
+      "stage": 3,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "guide": "Complete 3 Collectible Card sets and track completed sets rather than individual cards here. The description does not name the sets or their card locations, so check collection progress in game.",
+      "kind": "collectible",
+      "stage": 4,
+      "missable": false,
+      "warning": "",
+      "target": 3,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "guide": "Use WAiNK It at 100 locations and record confirmed location progress. The description does not provide a map or explain qualifying interactions, so check the in-game feedback at each stop.",
+      "kind": "collectible",
+      "stage": 4,
+      "missable": false,
+      "warning": "",
+      "target": 100,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "guide": "Complete 50 Challenges and update your count after each confirmed completion. The description does not list eligible challenge types or their locations; check the game's challenge record.",
+      "kind": "activity",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": 50,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "guide": "Lose a 4 star Wanted Level with your partner and escape the heat. Both the partner and wanted-level conditions belong to the same attempt; the description does not name a preferred place or escape route.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": true,
+      "warning": "Keep your partner present for the wanted-level escape.",
+      "target": 4,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "guide": "Rob 3 shops back-to-back with your partner while keeping your Wanted Level. Losing that level breaks the stated sequence, so check it between shops and start a fresh attempt if it ends; exact shop locations are not provided.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": true,
+      "warning": "Do not lose your Wanted Level between the three shops.",
+      "target": 3,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "guide": "Discover 100 vehicles and track discoveries confirmed by the game. The description does not say which models qualify or where to find them, so consult the in-game discovery record.",
+      "kind": "collectible",
+      "stage": 4,
+      "missable": false,
+      "warning": "",
+      "target": 100,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "guide": "Take down 5 enemies within a single use of Combat Focus. Splitting the takedowns across activations does not meet the stated condition; the description gives no required location or enemy type.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": true,
+      "warning": "All five takedowns must share one Combat Focus activation.",
+      "target": 5,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "guide": "Make an unscheduled departure at VCIA. The description names the place but leaves the action and route unclear, so inspect the in-game possibilities rather than assuming a specific vehicle or mission.",
+      "kind": "exploration",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "guide": "The description refers to Rhinos but does not identify the required action or location. Keep this for cleanup and check the in-game trophy feedback; a tank theft, destruction target, or specific mission cannot be confirmed from this wording.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "guide": "Rob a jewelry store without being detected. Detection invalidates the condition for that attempt, so approach this as a clean run and retry if spotted; the description does not identify a store or entry route.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": true,
+      "warning": "Detection breaks the requirement for this attempt.",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "guide": "Rob 5 Bank Vaults and escape, recording successful escapes alongside the robberies. The description does not name vault locations or specify whether they must be different, so confirm counted progress in game.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": 5,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "guide": "Rob an Armored Truck and escape afterward. The description gives no truck route or preferred robbery method; check in game and ensure the escape is complete before treating the attempt as finished.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "guide": "Explore all of Leonida and use the in-game exploration record to find gaps. The description does not supply named areas or an area count, so this guide cannot provide a verified location checklist.",
+      "kind": "exploration",
+      "stage": 4,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "guide": "Rob an Illegal Operation belonging to each gang. Track which gangs have a confirmed robbery rather than repeating one gang; the description does not list gang names, totals, or operation locations.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. The description identifies the area but not the exact spot or interaction, so check available interactions there without assuming a named venue.",
+      "kind": "exploration",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "guide": "Smash your way out of a vehicle showroom in classic style. The description does not identify the showroom, vehicle, or precise trigger, so check the in-game interaction before relying on a particular method.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "guide": "Follow-through at the Kolt & Associates' bowling alley. The description identifies the venue but leaves the required action ambiguous; check in game rather than assuming a score or a standard bowling match is sufficient.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "guide": "The description calls for a partnership with mass appeal but gives no actionable steps or location. Leave this as an unresolved cleanup target until the game provides context; a specific partner action cannot be verified from the list alone.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "guide": "The description mentions choices made for better or worse, without naming a choice or target count. Treat relevant decisions cautiously and check in-game feedback; no particular outcome can be recommended from this wording.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": true,
+      "warning": "Choice-related wording: preserve a save before decisions; the exact trigger is undisclosed.",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "guide": "The phrase about a second time does not identify an activity, location, or exact trigger. Check in-game context before planning this trophy; a required retry or a missable window cannot be established from the description.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": true,
+      "warning": "Second-time wording: preserve a save before relevant attempts; the exact trigger is undisclosed.",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "guide": "The description does not reveal the event, location, or action needed for this trophy. Keep it as an unresolved cleanup item and inspect in-game clues; claiming a specific encounter would go beyond the supplied list.",
+      "kind": "exploration",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "guide": "Perform a melee drive-by that bowls a target over. The description does not identify a location, target type, or required vehicle, so check the in-game result after the maneuver.",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "guide": "Earn $250,000 by laundering Marked Bills through your contacts. Track earnings from that method specifically; the description does not name the contacts or state where to meet them.",
+      "kind": "economy",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": 250000,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "guide": "Spend $100,000 across all shops, tracking confirmed shop spending. The description does not require a particular item or name specific shops, so choose purchases in game while watching the total.",
+      "kind": "economy",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": 100000,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "guide": "Purchase all garage properties and compare your owned properties with the in-game property list. The description does not give a total, addresses, or prices, so verify availability and ownership in game.",
+      "kind": "economy",
+      "stage": 4,
+      "missable": false,
+      "warning": "",
+      "target": null,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "guide": "Register 10 vehicles to the Scooter Bros app and track successful registrations. The description does not name qualifying models or pickup locations, so use the in-game app to confirm each vehicle.",
+      "kind": "economy",
+      "stage": 5,
+      "missable": false,
+      "warning": "",
+      "target": 10,
+      "sources": [
+        "Exophase — official trophy list (name, description, grade)",
+        "PSNProfiles — PSN progress targets"
+      ]
+    }
+  ],
+  "editorial": "Description-led guide. No unverified locations or hidden triggers. Missable flags include attempt conditions and precautionary flags, not confirmed permanent lockouts."
+}

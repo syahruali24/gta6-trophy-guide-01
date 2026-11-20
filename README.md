@@ -8,3 +8,4 @@ Leonida Trophy Guide is an independent, offline trophy guide with all 55 supplie
 Open `app/index.html` directly or run `node serve.ts`. Package with `MAKEFUN_OUTPUT_DIR=out node main.ts` (Node 22+). The embedded catalog in app.js matches app/data/trophies.json so direct file access needs no fetch. Spoiler shield defaults on. Screenshot query parameters support view, detail, seed, and spoilers. Seed 13 earns the first 13 IDs deterministically.
 
 Verification: `node scripts/check.mjs`. Screenshot capture: launch Chromium with the documented competition flags, then `node scripts/capture.mjs`. Screenshots are captured from the built out/app files. MIT licensed; see LICENSE.
+

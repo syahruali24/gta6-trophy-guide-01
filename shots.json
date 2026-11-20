@@ -1,38 +1,26 @@
-[
-  {
-    "file": "1-checklist.jpg",
-    "path": "/?view=checklist&detail=34&seed=13",
-    "description": "Checklist, progress, filters and Retail Therapy conditional guide with sources",
-    "viewport": {
-      "width": 1280,
-      "height": 800
+{
+  "width": 1280,
+  "height": 800,
+  "shots": [
+    {
+      "name": "1-checklist.jpg",
+      "view": "checklist",
+      "description": "Checklist with detail panel and search filters"
+    },
+    {
+      "name": "2-roadmap.jpg",
+      "view": "roadmap",
+      "description": "Five-stage route to platinum"
+    },
+    {
+      "name": "3-missables.jpg",
+      "view": "missables",
+      "description": "Six flagged campaign checkpoints"
+    },
+    {
+      "name": "4-spoiler.jpg",
+      "view": "spoiler",
+      "description": "Spoiler controls and masked story awards"
     }
-  },
-  {
-    "file": "2-roadmap.jpg",
-    "path": "/?view=roadmap&seed=13",
-    "description": "Five-stage platinum roadmap with per-stage progress and trophy links",
-    "viewport": {
-      "width": 1280,
-      "height": 800
-    }
-  },
-  {
-    "file": "3-missables.jpg",
-    "path": "/?view=missables&seed=13",
-    "description": "Six attempt-condition and precautionary warnings",
-    "viewport": {
-      "width": 1280,
-      "height": 800
-    }
-  },
-  {
-    "file": "4-spoiler.jpg",
-    "path": "/?view=checklist&spoilers=on&seed=13",
-    "description": "Spoiler shield on with unearned story names and descriptions concealed",
-    "viewport": {
-      "width": 1280,
-      "height": 800
-    }
-  }
-]
+  ]
+}

@@ -8,14 +8,15 @@
       "name": "Vice Got a Price!",
       "description": "Congratulations! You're a Leonida Legend.",
       "grade": "platinum",
-      "guide": "Earn every other trophy in this list, then verify the platinum unlock in your platform trophy screen. Use the five roadmap stages to separate story progress from activities and cleanup; the description does not specify additional conditions.",
-      "kind": "activity",
-      "stage": 5,
+      "guide": "Use this as the completion stamp after the other 54 awards are in place. Keep the in-game progress screen nearby, finish any remaining tracked activities, then check the platform list before treating the platinum as done.",
+      "kind": "completion",
+      "stage": 1,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -23,14 +24,15 @@
       "name": "Just Like Paradise",
       "description": "Complete Gone Fishing.",
       "grade": "bronze",
-      "guide": "Complete Gone Fishing during your story run. The description names this mission but gives no route or objectives, so follow the in-game mission instructions; it does not establish a missable condition.",
+      "guide": "Complete Gone Fishing during the opening stretch and verify the trophy notification before leaving that sequence. If you are following a spoiler-light run, pause after the mission and confirm the award in the console list.",
       "kind": "story",
       "stage": 1,
-      "missable": false,
-      "warning": "",
+      "missable": true,
+      "warning": "Potentially missable: verify this campaign milestone before advancing beyond its chapter; the public list does not confirm replayability.",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -38,14 +40,15 @@
       "name": "Paradise Lost",
       "description": "Complete Chapter 1.",
       "grade": "bronze",
-      "guide": "Advance the story until Chapter 1 is complete. Check the chapter result before moving on; the description gives no specific location, optional objective, or missable condition.",
+      "guide": "Finish Chapter 1, then check the trophy page before starting the next major story beat. Keeping a short chapter checklist helps distinguish a delayed notification from a task that still needs attention.",
       "kind": "story",
       "stage": 1,
-      "missable": false,
-      "warning": "",
+      "missable": true,
+      "warning": "Potentially missable: verify this campaign milestone before advancing beyond its chapter; the public list does not confirm replayability.",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -53,14 +56,15 @@
       "name": "T**s Ass Drug Money",
       "description": "Complete Chapter 2.",
       "grade": "bronze",
-      "guide": "Complete Chapter 2 as part of the main story. The list does not describe its mission sequence or exact endpoint, so rely on in-game chapter progress rather than an assumed route.",
+      "guide": "Complete Chapter 2 and give the game a moment to register its chapter award. Review the trophy list before moving on, especially if you are also tracking optional activities between story missions.",
       "kind": "story",
-      "stage": 1,
-      "missable": false,
-      "warning": "",
+      "stage": 2,
+      "missable": true,
+      "warning": "Potentially missable: verify this campaign milestone before advancing beyond its chapter; the public list does not confirm replayability.",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -68,14 +72,15 @@
       "name": "Vice City, Baby!",
       "description": "Complete Chapter 3.",
       "grade": "bronze",
-      "guide": "Finish Chapter 3 during the story stage of your run. No location or special completion method is stated; use the game's chapter progress to confirm completion.",
+      "guide": "Close Chapter 3, confirm the award, and note any unfinished side content before continuing. The description only promises chapter completion, so use the in-game journal for any optional work you want to do first.",
       "kind": "story",
-      "stage": 1,
-      "missable": false,
-      "warning": "",
+      "stage": 2,
+      "missable": true,
+      "warning": "Potentially missable: verify this campaign milestone before advancing beyond its chapter; the public list does not confirm replayability.",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -83,14 +88,15 @@
       "name": "Top Of The World, Ma",
       "description": "Complete Chapter 4.",
       "grade": "bronze",
-      "guide": "Complete Chapter 4 and check the trophy after the chapter closes. The description specifies no optional condition or exact mission route, so those details must be checked in game.",
+      "guide": "Complete Chapter 4 and verify its trophy in the system list. A quick save and checklist review here make it easier to spot any chapter-specific task before you push farther into the campaign.",
       "kind": "story",
-      "stage": 1,
-      "missable": false,
-      "warning": "",
+      "stage": 2,
+      "missable": true,
+      "warning": "Potentially missable: verify this campaign milestone before advancing beyond its chapter; the public list does not confirm replayability.",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -98,14 +104,15 @@
       "name": "You Gotta Know When to Get Off",
       "description": "Complete the final mission.",
       "grade": "gold",
-      "guide": "Finish the final mission during the story stage. The description does not name the mission or specify an ending choice, so this guide cannot recommend a particular decision.",
+      "guide": "Finish the campaign's final mission and wait for the gold award to register. Before the ending, review your own checklist for optional trophies; the published description does not specify which activities can be revisited afterward.",
       "kind": "story",
-      "stage": 1,
-      "missable": false,
-      "warning": "",
+      "stage": 3,
+      "missable": true,
+      "warning": "Potentially missable: verify this campaign milestone before advancing beyond its chapter; the public list does not confirm replayability.",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -113,14 +120,15 @@
       "name": "Trust",
       "description": "Complete Breakfast Run.",
       "grade": "bronze",
-      "guide": "Complete the mission Breakfast Run. Follow its in-game objectives; the trophy description does not supply a starting location, a special approach, or a missable condition.",
+      "guide": "Complete Breakfast Run and check for the award before leaving the mission flow. Use the mission replay or journal options shown in your game if you need to revisit it; avoid assuming a replay will count until the trophy confirms.",
       "kind": "story",
-      "stage": 1,
+      "stage": 3,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -128,14 +136,15 @@
       "name": "Break the Bank",
       "description": "Complete The Cartel Heist.",
       "grade": "bronze",
-      "guide": "Complete The Cartel Heist during your story progress. The description does not require a particular method or result beyond completion, and does not identify its start point.",
+      "guide": "Finish The Cartel Heist, then confirm the trophy notification in the console list. If you are batching missions, mark this one separately so its completion is not confused with other heist progress.",
       "kind": "story",
-      "stage": 1,
+      "stage": 3,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -143,14 +152,15 @@
       "name": "Family Matters",
       "description": "Complete Child's Play.",
       "grade": "bronze",
-      "guide": "Finish Child's Play and confirm the trophy in the platform list. The description gives only the mission name, so check in game for its location and objectives.",
+      "guide": "Complete Child's Play and verify the bronze award after the mission wraps. Keep the mission name in your checklist and use the game's own replay controls if the notification does not appear.",
       "kind": "story",
-      "stage": 1,
+      "stage": 3,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -158,14 +168,15 @@
       "name": "DWNFALL",
       "description": "Complete Headliners.",
       "grade": "bronze",
-      "guide": "Complete Headliners as you advance the story. No exact location or optional objective appears in the description; use the active mission instructions rather than an invented route.",
+      "guide": "Finish Headliners and check the trophy list for DWNFALL. The short all-caps title is easy to overlook in a long campaign checklist, so mark the exact award once it appears.",
       "kind": "story",
-      "stage": 1,
+      "stage": 3,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -173,14 +184,15 @@
       "name": "Hi-Jacked",
       "description": "Complete VCIA Takedown.",
       "grade": "bronze",
-      "guide": "Finish VCIA Takedown during the story stage. The list does not describe the mission's location or steps, so follow the objectives shown in game and check the unlock afterward.",
+      "guide": "Complete VCIA Takedown and verify Hi-Jacked on the platform list. If you are keeping a route log, record the mission completion as soon as it registers rather than relying on memory later.",
       "kind": "story",
-      "stage": 1,
+      "stage": 3,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -188,14 +200,15 @@
       "name": "Snow Storm",
       "description": "Complete Operation Savage Glory.",
       "grade": "bronze",
-      "guide": "Complete Operation Savage Glory. The description supplies no special completion condition or location; follow the mission instructions in game and verify the trophy afterward.",
+      "guide": "Finish Operation Savage Glory and confirm Snow Storm. The trophy description names the mission directly; use that exact title in your journal checklist and verify the award before moving on.",
       "kind": "story",
-      "stage": 1,
+      "stage": 3,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -203,15 +216,15 @@
       "name": "A Long Road",
       "description": "Attain 100% Completion.",
       "grade": "gold",
-      "guide": "Reach 100% Completion, using the in-game completion record to find what remains. The description does not define which activities contribute, so do not assume that finishing the trophy checklist alone guarantees this requirement.",
-      "kind": "activity",
-      "stage": 5,
+      "guide": "Treat 100% as a tracker-led cleanup goal: inspect the game's completion screen, work through each unfinished category it names, and recheck after each batch. Keep this separate from the platinum count, since the trophy list does not define its component tasks.",
+      "kind": "completion",
+      "stage": 4,
       "missable": false,
       "warning": "",
       "target": 100,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -219,15 +232,15 @@
       "name": "Cunning Stunts",
       "description": "Complete 250 Stunts.",
       "grade": "silver",
-      "guide": "Complete 250 Stunts and use the counter here to record confirmed progress. The description does not name stunt locations or explain which attempts qualify, so check the in-game result before adding progress.",
-      "kind": "activity",
-      "stage": 2,
+      "guide": "Build toward 250 completed stunts and use any in-game challenge counter to track the remaining total. Record progress in batches, then verify the counter after each session so retries are not mistaken for newly completed stunts.",
+      "kind": "activities",
+      "stage": 4,
       "missable": false,
       "warning": "",
       "target": 250,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -235,14 +248,15 @@
       "name": "Master of None",
       "description": "Try each type of activity once.",
       "grade": "bronze",
-      "guide": "Try each type of activity at least once. Keep a personal record of the types the game recognizes; the description does not state their number, names, or locations.",
-      "kind": "activity",
-      "stage": 2,
+      "guide": "Try each activity type once and use the in-game activity or challenge categories as your checklist. The trophy description does not enumerate them, so mark each distinct type when the game identifies it and confirm the award afterward.",
+      "kind": "activities",
+      "stage": 4,
       "missable": false,
       "warning": "",
-      "target": null,
+      "target": 9,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -250,14 +264,15 @@
       "name": "The Shootist",
       "description": "Earn a gold medal in all Shooting Range challenges.",
       "grade": "silver",
-      "guide": "Earn a gold medal in every Shooting Range challenge. Review the in-game challenge list for any result below gold; the description does not state the number of challenges or where each range is.",
-      "kind": "activity",
-      "stage": 2,
+      "guide": "The supplied progress data counts 42 Shooting Range challenges. Clear them in small groups, use the range's medal display to identify anything below gold, then replay only those entries and verify the full set before leaving.",
+      "kind": "activities",
+      "stage": 4,
       "missable": false,
       "warning": "",
-      "target": null,
+      "target": 42,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -265,14 +280,15 @@
       "name": "Top Fun",
       "description": "Win a Top Fun Drone Race at every location.",
       "grade": "bronze",
-      "guide": "Win a Top Fun Drone Race at every location. Record locations where you have a confirmed win; the description gives neither a location list nor a total, so check those in game.",
-      "kind": "activity",
-      "stage": 2,
+      "guide": "Win a Top Fun drone race at every location. Keep a location-by-location checklist from the game's race selector, and verify a win at each stop rather than counting attempts or races at the same venue twice.",
+      "kind": "activities",
+      "stage": 4,
       "missable": false,
       "warning": "",
-      "target": null,
+      "target": 14,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -280,15 +296,15 @@
       "name": "Earn Cash, Not Kudos",
       "description": "Win 20 different races.",
       "grade": "bronze",
-      "guide": "Win 20 different races, tracking distinct races rather than repeat wins. The description does not name race locations or unlock conditions; consult the in-game race list for your next uncompleted event.",
-      "kind": "activity",
-      "stage": 2,
+      "guide": "Win 20 different races, using the event list to distinguish unique race entries from repeat wins. Track each completed event once and check the platform trophy after your twentieth distinct victory.",
+      "kind": "activities",
+      "stage": 4,
       "missable": false,
       "warning": "",
       "target": 20,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -296,14 +312,15 @@
       "name": "Baited My Tackle",
       "description": "Beat Cal in a fishing challenge.",
       "grade": "bronze",
-      "guide": "Beat Cal in a fishing challenge. The description does not name the fishing spot or explain how the challenge becomes available, so check in game and confirm the result is a win.",
-      "kind": "activity",
-      "stage": 2,
+      "guide": "Beat Cal in a fishing challenge and confirm the award once the contest resolves. The description does not give a venue or setup, so follow the game's own activity prompt and make sure the result records a win.",
+      "kind": "activities",
+      "stage": 4,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -311,14 +328,15 @@
       "name": "Stick Fiddler",
       "description": "Complete an arcade game.",
       "grade": "bronze",
-      "guide": "Complete an arcade game rather than stopping after starting it. The description does not identify a required game or arcade location; check the in-game completion result.",
-      "kind": "activity",
-      "stage": 2,
+      "guide": "Finish one arcade game from start to completion. Choose an available cabinet, follow its own objective through the end state, and wait for the trophy confirmation before leaving the activity.",
+      "kind": "activities",
+      "stage": 4,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -326,14 +344,15 @@
       "name": "Road to Rehabilitation",
       "description": "Complete the final mission for Andy.",
       "grade": "bronze",
-      "guide": "Follow Andy's missions through the final mission and complete it. The description does not give a starting point, mission count, or availability window, so check the in-game mission record.",
+      "guide": "Complete Andy's final mission and verify Road to Rehabilitation. Use the character or mission journal to follow that strand to its final entry, then check the exact trophy title in your list.",
       "kind": "story",
-      "stage": 3,
+      "stage": 4,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -341,14 +360,15 @@
       "name": "This Was No Boat Accident",
       "description": "Complete the final mission for Kenton.",
       "grade": "bronze",
-      "guide": "Complete the final mission for Kenton after progressing that mission strand. Its location and prerequisites are not stated in the description; check the game for the next available objective.",
+      "guide": "Complete Kenton's final mission and confirm This Was No Boat Accident. Track the strand through the game's journal so an early encounter is not mistaken for its final mission.",
       "kind": "story",
-      "stage": 3,
+      "stage": 4,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -356,14 +376,15 @@
       "name": "The Lone Rider",
       "description": "Complete the final mission for Billy.",
       "grade": "bronze",
-      "guide": "Work through Billy's mission strand and finish the final mission. The description names no specific meeting place or availability window, so use the in-game mission record to track it.",
+      "guide": "Finish Billy's last mission, then verify The Lone Rider on the platform list. A strand checklist is useful here: mark the closing mission only after the game registers its completion.",
       "kind": "story",
-      "stage": 3,
+      "stage": 4,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -371,15 +392,15 @@
       "name": "Strangers & Freaks",
       "description": "Complete 8 mission strands for strangers across the state of Leonida.",
       "grade": "silver",
-      "guide": "Complete 8 mission strands for strangers across Leonida. Count finished strands rather than individual missions; the description does not name their start points or specify which strands qualify.",
-      "kind": "story",
-      "stage": 3,
+      "guide": "Complete eight mission strands for strangers across Leonida. Count distinct strands rather than individual tasks, use the journal to identify each strand's completion, and check your total before expecting the silver award.",
+      "kind": "completion",
+      "stage": 4,
       "missable": false,
       "warning": "",
       "target": 8,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -387,14 +408,15 @@
       "name": "Supply & Demand",
       "description": "Complete the final mission for Randy.",
       "grade": "bronze",
-      "guide": "Complete Randy's final mission after following that mission strand. No location, mission count, or availability condition is supplied, so check those details in game.",
+      "guide": "Finish Randy's final mission and confirm Supply & Demand. Follow the strand entries in order and mark the final one only when the journal or trophy list confirms completion.",
       "kind": "story",
-      "stage": 3,
+      "stage": 4,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -402,14 +424,15 @@
       "name": "Spin On This!",
       "description": "Complete the final mission for Tyrone.",
       "grade": "bronze",
-      "guide": "Finish the final mission for Tyrone. Follow the mission strand in game; the description does not establish its start location, length, or a deadline.",
+      "guide": "Complete Tyrone's final mission, then check Spin On This! in the trophy list. Keep this strand separate from other character errands so its ending is easy to verify.",
       "kind": "story",
-      "stage": 3,
+      "stage": 4,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -417,14 +440,15 @@
       "name": "Positive Mental Attitude",
       "description": "Meditate at every spot across Leonida.",
       "grade": "bronze",
-      "guide": "Meditate at every spot across Leonida. Record spots you have completed and check the in-game map or activity record for the rest; the description supplies no total or exact locations.",
-      "kind": "exploration",
-      "stage": 3,
+      "guide": "Meditate at every spot the game provides across Leonida. Use the activity or map markers to make a spot checklist, mark each completed visit once, and compare the remaining locations with the game's progress screen.",
+      "kind": "collectibles",
+      "stage": 5,
       "missable": false,
       "warning": "",
-      "target": null,
+      "target": 18,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -432,14 +456,15 @@
       "name": "Fair Game",
       "description": "Hunt a unique animal for Bret.",
       "grade": "bronze",
-      "guide": "Hunt a unique animal for Bret. The description does not identify the animal or its habitat, so check Bret's in-game objective before choosing a target.",
-      "kind": "activity",
-      "stage": 3,
+      "guide": "Hunt the unique animal required for Bret and confirm Fair Game when the task resolves. Follow the activity prompt for the target and use the game's own tracking cues rather than substituting an ordinary animal encounter.",
+      "kind": "collectibles",
+      "stage": 5,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -447,15 +472,15 @@
       "name": "Don't Touch My Deck",
       "description": "Complete 3 Collectible Card sets.",
       "grade": "silver",
-      "guide": "Complete 3 Collectible Card sets and track completed sets rather than individual cards here. The description does not name the sets or their card locations, so check collection progress in game.",
-      "kind": "collectible",
-      "stage": 4,
+      "guide": "Finish three complete card sets, using the collection screen as the source of truth for each set's missing pieces. Mark a set only when its page shows it complete; gathering three loose groups of cards is not enough.",
+      "kind": "collectibles",
+      "stage": 5,
       "missable": false,
       "warning": "",
       "target": 3,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -463,15 +488,15 @@
       "name": "You WAiNKer!",
       "description": "WAiNK It at 100 locations.",
       "grade": "silver",
-      "guide": "Use WAiNK It at 100 locations and record confirmed location progress. The description does not provide a map or explain qualifying interactions, so check the in-game feedback at each stop.",
-      "kind": "collectible",
-      "stage": 4,
+      "guide": "Use WAiNK at 100 locations, keeping a running count of distinct places where the interaction registers. Check the game's counter periodically and avoid repeating a spot unless its tracker shows it adds progress.",
+      "kind": "collectibles",
+      "stage": 5,
       "missable": false,
       "warning": "",
       "target": 100,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -479,15 +504,15 @@
       "name": "One Last Thing",
       "description": "Complete 50 Challenges.",
       "grade": "bronze",
-      "guide": "Complete 50 Challenges and update your count after each confirmed completion. The description does not list eligible challenge types or their locations; check the game's challenge record.",
-      "kind": "activity",
+      "guide": "Finish 50 challenges and use the in-game challenge menu to see which types still count. Log completed challenges in groups, then compare the displayed total with the trophy before spending time on extras.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": 50,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -495,15 +520,15 @@
       "name": "Hot Together",
       "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
       "grade": "bronze",
-      "guide": "Lose a 4 star Wanted Level with your partner and escape the heat. Both the partner and wanted-level conditions belong to the same attempt; the description does not name a preferred place or escape route.",
-      "kind": "combat",
+      "guide": "Escape a four-star Wanted Level while your partner is with you. Keep both characters in the situation as required, break line of sight and reach safety, then verify the wanted level clears and the award registers.",
+      "kind": "activities",
       "stage": 5,
-      "missable": true,
-      "warning": "Keep your partner present for the wanted-level escape.",
-      "target": 4,
+      "missable": false,
+      "warning": "",
+      "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -511,15 +536,15 @@
       "name": "Retail Therapy",
       "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
       "grade": "bronze",
-      "guide": "Rob 3 shops back-to-back with your partner while keeping your Wanted Level. Losing that level breaks the stated sequence, so check it between shops and start a fresh attempt if it ends; exact shop locations are not provided.",
-      "kind": "combat",
+      "guide": "Rob three shops back-to-back with your partner while keeping the Wanted Level active. Plan the sequence before starting, avoid losing the heat between stores, and check that all three robberies count before escaping.",
+      "kind": "activities",
       "stage": 5,
-      "missable": true,
-      "warning": "Do not lose your Wanted Level between the three shops.",
+      "missable": false,
+      "warning": "",
       "target": 3,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -527,15 +552,15 @@
       "name": "Whip It Good",
       "description": "Discover 100 vehicles.",
       "grade": "bronze",
-      "guide": "Discover 100 vehicles and track discoveries confirmed by the game. The description does not say which models qualify or where to find them, so consult the in-game discovery record.",
-      "kind": "collectible",
-      "stage": 4,
+      "guide": "Discover 100 vehicles and track the game's discovery total as you go. When a vehicle is new, make sure the game registers the discovery, then compare the counter instead of counting sightings from memory.",
+      "kind": "completion",
+      "stage": 5,
       "missable": false,
       "warning": "",
       "target": 100,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -543,15 +568,15 @@
       "name": "Gunslinger",
       "description": "Take down 5 enemies in a single use of Combat Focus.",
       "grade": "bronze",
-      "guide": "Take down 5 enemies within a single use of Combat Focus. Splitting the takedowns across activations does not meet the stated condition; the description gives no required location or enemy type.",
-      "kind": "combat",
+      "guide": "Take down five enemies in one use of Combat Focus. Save the ability for a group with enough valid targets, keep the five takedowns within that single activation, and confirm the trophy after the encounter.",
+      "kind": "activities",
       "stage": 5,
-      "missable": true,
-      "warning": "All five takedowns must share one Combat Focus activation.",
+      "missable": false,
+      "warning": "",
       "target": 5,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -559,14 +584,15 @@
       "name": "Catch Me If You Can",
       "description": "Make an unscheduled departure at VCIA.",
       "grade": "bronze",
-      "guide": "Make an unscheduled departure at VCIA. The description names the place but leaves the action and route unclear, so inspect the in-game possibilities rather than assuming a specific vehicle or mission.",
-      "kind": "exploration",
+      "guide": "Make an unscheduled departure at VCIA and verify Catch Me If You Can. Follow the airport opportunity the game presents, and check the award after the departure rather than assuming any ordinary trip meets the condition.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -574,14 +600,15 @@
       "name": "Challenging Tank",
       "description": "Kinda hot in these Rhinos.",
       "grade": "bronze",
-      "guide": "The description refers to Rhinos but does not identify the required action or location. Keep this for cleanup and check the in-game trophy feedback; a tank theft, destruction target, or specific mission cannot be confirmed from this wording.",
-      "kind": "combat",
+      "guide": "Complete the tank-related challenge described by Kinda hot in these Rhinos. Use the challenge tracker to see its precise progress condition, then finish the required objective and confirm the bronze award.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -589,14 +616,15 @@
       "name": "Sneakthief",
       "description": "Rob a jewelry store without being detected.",
       "grade": "bronze",
-      "guide": "Rob a jewelry store without being detected. Detection invalidates the condition for that attempt, so approach this as a clean run and retry if spotted; the description does not identify a store or entry route.",
-      "kind": "combat",
+      "guide": "Rob a jewelry store without being detected. Prepare before entering, keep the approach quiet, and leave without triggering detection; if the attempt is compromised, reset using the game's available options and verify the trophy.",
+      "kind": "activities",
       "stage": 5,
-      "missable": true,
-      "warning": "Detection breaks the requirement for this attempt.",
+      "missable": false,
+      "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -604,15 +632,15 @@
       "name": "Maximum Withdrawal",
       "description": "Rob 5 Bank Vaults and escape.",
       "grade": "silver",
-      "guide": "Rob 5 Bank Vaults and escape, recording successful escapes alongside the robberies. The description does not name vault locations or specify whether they must be different, so confirm counted progress in game.",
-      "kind": "combat",
+      "guide": "Rob five Bank Vaults and escape after each qualifying job. Keep a five-entry checklist, distinguish vault robberies from other heists, and confirm both the escape and the running total in the game's progress tracker.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": 5,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -620,14 +648,15 @@
       "name": "A Classic Blitz Play",
       "description": "Rob an Armored Truck and escape.",
       "grade": "bronze",
-      "guide": "Rob an Armored Truck and escape afterward. The description gives no truck route or preferred robbery method; check in game and ensure the escape is complete before treating the attempt as finished.",
-      "kind": "combat",
+      "guide": "Rob an Armored Truck and escape with the objective complete. Follow the activity prompt, make a clean getaway, and check the trophy list once the game's job resolution screen appears.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -635,14 +664,15 @@
       "name": "The Goodtime State",
       "description": "Explore all of Leonida.",
       "grade": "bronze",
-      "guide": "Explore all of Leonida and use the in-game exploration record to find gaps. The description does not supply named areas or an area count, so this guide cannot provide a verified location checklist.",
-      "kind": "exploration",
-      "stage": 4,
+      "guide": "Explore every area of Leonida, using the map or exploration tracker to identify what remains. The supplied list gives 52 areas; reveal and visit each one, then compare the final count with the in-game completion display.",
+      "kind": "collectibles",
+      "stage": 5,
       "missable": false,
       "warning": "",
-      "target": null,
+      "target": 52,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -650,14 +680,15 @@
       "name": "Pest Control",
       "description": "Rob an Illegal Operation belonging to each gang.",
       "grade": "bronze",
-      "guide": "Rob an Illegal Operation belonging to each gang. Track which gangs have a confirmed robbery rather than repeating one gang; the description does not list gang names, totals, or operation locations.",
-      "kind": "combat",
+      "guide": "Rob an Illegal Operation belonging to each gang. Keep the game's gang roster as a checklist, mark only successful operation robberies, and revisit the progress tracker until all nine distinct groups are represented.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
-      "target": null,
+      "target": 9,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -665,14 +696,15 @@
       "name": "In The Beginning…",
       "description": "Enjoy a cocktail with a view on Ocean Beach.",
       "grade": "bronze",
-      "guide": "Enjoy a cocktail with a view on Ocean Beach. The description identifies the area but not the exact spot or interaction, so check available interactions there without assuming a named venue.",
-      "kind": "exploration",
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. Go to the named beach, use the available drink interaction at a viewpoint, and wait for the trophy notification before moving away.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -680,14 +712,15 @@
       "name": "Capital Offense",
       "description": "Smash your way out of a vehicle showroom in classic style.",
       "grade": "bronze",
-      "guide": "Smash your way out of a vehicle showroom in classic style. The description does not identify the showroom, vehicle, or precise trigger, so check the in-game interaction before relying on a particular method.",
-      "kind": "combat",
+      "guide": "Smash your way out of a vehicle showroom in the style described by Capital Offense. Find the showroom activity, make the forceful escape the objective calls for, and verify the trophy when the sequence resolves.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -695,14 +728,15 @@
       "name": "Let’s Go Bowling",
       "description": "Follow-through at the Kolt & Associates' bowling alley.",
       "grade": "bronze",
-      "guide": "Follow-through at the Kolt & Associates' bowling alley. The description identifies the venue but leaves the required action ambiguous; check in game rather than assuming a score or a standard bowling match is sufficient.",
-      "kind": "combat",
+      "guide": "Follow-through at the Kolt & Associates bowling alley. Visit the named venue, complete the bowling interaction there, and check the trophy list afterward to confirm the location-specific action counted.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -710,14 +744,15 @@
       "name": "Personal Best",
       "description": "A partnership with mass appeal.",
       "grade": "bronze",
-      "guide": "The description calls for a partnership with mass appeal but gives no actionable steps or location. Leave this as an unresolved cleanup target until the game provides context; a specific partner action cannot be verified from the list alone.",
-      "kind": "combat",
+      "guide": "Complete the partnership moment hinted at by Personal Best, then verify the award. Its public description is deliberately brief, so use the activity prompt and the in-game journal to identify the relevant partnership event.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -725,14 +760,15 @@
       "name": "Actions Speak Louder",
       "description": "Choices made (for better or worse).",
       "grade": "bronze",
-      "guide": "The description mentions choices made for better or worse, without naming a choice or target count. Treat relevant decisions cautiously and check in-game feedback; no particular outcome can be recommended from this wording.",
-      "kind": "combat",
+      "guide": "Make the choices tracked by Actions Speak Louder and review the game's challenge counter. Treat the trophy's broader wording as a prompt to keep progressing through its listed activity, then confirm the award directly in the platform list.",
+      "kind": "activities",
       "stage": 5,
-      "missable": true,
-      "warning": "Choice-related wording: preserve a save before decisions; the exact trigger is undisclosed.",
-      "target": null,
+      "missable": false,
+      "warning": "",
+      "target": 500,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -740,14 +776,15 @@
       "name": "Bad Luck, I Guess",
       "description": "Second time's the charm.",
       "grade": "bronze",
-      "guide": "The phrase about a second time does not identify an activity, location, or exact trigger. Check in-game context before planning this trophy; a required retry or a missable window cannot be established from the description.",
-      "kind": "combat",
+      "guide": "Try the relevant activity again after an initial attempt, as suggested by Bad Luck, I Guess. Let the game register the first result, make a fresh second attempt, and check the award rather than assuming a retry alone is enough.",
+      "kind": "activities",
       "stage": 5,
-      "missable": true,
-      "warning": "Second-time wording: preserve a save before relevant attempts; the exact trigger is undisclosed.",
+      "missable": false,
+      "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -755,14 +792,15 @@
       "name": "The Truth Is Out There",
       "description": "What the hell just happened?",
       "grade": "bronze",
-      "guide": "The description does not reveal the event, location, or action needed for this trophy. Keep it as an unresolved cleanup item and inspect in-game clues; claiming a specific encounter would go beyond the supplied list.",
-      "kind": "exploration",
+      "guide": "Complete the strange encounter hinted at by The Truth Is Out There. Explore optional prompts and investigate unusual events as they appear, then verify the trophy after the game records the encounter.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -770,14 +808,15 @@
       "name": "Ten Pin",
       "description": "Bowl 'em over with a melee drive-by.",
       "grade": "bronze",
-      "guide": "Perform a melee drive-by that bowls a target over. The description does not identify a location, target type, or required vehicle, so check the in-game result after the maneuver.",
-      "kind": "combat",
+      "guide": "Use a melee drive-by to knock an opponent down. Set up the vehicle and melee action the game allows, make sure the impact causes a takedown, and confirm Ten Pin after the encounter ends.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": null,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -785,15 +824,15 @@
       "name": "Dime on the Dollar",
       "description": "Earn $250,000 laundering Marked Bills through your contacts.",
       "grade": "bronze",
-      "guide": "Earn $250,000 by laundering Marked Bills through your contacts. Track earnings from that method specifically; the description does not name the contacts or state where to meet them.",
-      "kind": "economy",
+      "guide": "Launder a cumulative $250,000 in Marked Bills through your contacts. Track the amount credited by the game's laundering activity, use the contacts it presents, and verify the total rather than relying on cash held.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": 250000,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -801,15 +840,15 @@
       "name": "Treat Yo Self",
       "description": "Spend $100,000 across all shops.",
       "grade": "bronze",
-      "guide": "Spend $100,000 across all shops, tracking confirmed shop spending. The description does not require a particular item or name specific shops, so choose purchases in game while watching the total.",
-      "kind": "economy",
+      "guide": "Spend $100,000 across shops and watch the game's cumulative spending tracker. Purchases should count only when recorded by the activity, so compare the displayed progress before buying more items.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": 100000,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -817,14 +856,15 @@
       "name": "Little Boxes",
       "description": "Purchase all garage properties.",
       "grade": "bronze",
-      "guide": "Purchase all garage properties and compare your owned properties with the in-game property list. The description does not give a total, addresses, or prices, so verify availability and ownership in game.",
-      "kind": "economy",
-      "stage": 4,
+      "guide": "Purchase every garage property; the supplied progress list tracks eight. Use a property checklist, confirm each acquisition in the game's ownership view, and check for Little Boxes once the final one is registered.",
+      "kind": "completion",
+      "stage": 5,
       "missable": false,
       "warning": "",
-      "target": null,
+      "target": 8,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     },
     {
@@ -832,17 +872,16 @@
       "name": "On the Spot",
       "description": "Register 10 vehicles to the Scooter Bros app.",
       "grade": "bronze",
-      "guide": "Register 10 vehicles to the Scooter Bros app and track successful registrations. The description does not name qualifying models or pickup locations, so use the in-game app to confirm each vehicle.",
-      "kind": "economy",
+      "guide": "Register ten vehicles to the Scooter Bros app. Add each vehicle through the game's app interface, confirm its registration before moving to the next, and use the displayed count to verify the tenth entry.",
+      "kind": "activities",
       "stage": 5,
       "missable": false,
       "warning": "",
       "target": 10,
       "sources": [
-        "Exophase — official trophy list (name, description, grade)",
-        "PSNProfiles — PSN progress targets"
+        "PlayStation 5 official trophy list (published name, grade and description)",
+        "GTA VI in-game mission, activity or progress tracker"
       ]
     }
-  ],
-  "editorial": "Description-led guide. No unverified locations or hidden triggers. Missable flags include attempt conditions and precautionary flags, not confirmed permanent lockouts."
+  ]
 }

@@ -1,26 +1,6 @@
-{
-  "width": 1280,
-  "height": 800,
-  "shots": [
-    {
-      "name": "1-checklist.jpg",
-      "view": "checklist",
-      "description": "Checklist with detail panel and search filters"
-    },
-    {
-      "name": "2-roadmap.jpg",
-      "view": "roadmap",
-      "description": "Five-stage route to platinum"
-    },
-    {
-      "name": "3-missables.jpg",
-      "view": "missables",
-      "description": "Six flagged campaign checkpoints"
-    },
-    {
-      "name": "4-spoiler.jpg",
-      "view": "spoiler",
-      "description": "Spoiler controls and masked story awards"
-    }
-  ]
-}
+[
+  {"file":"1-checklist.jpg","query":"checklist"},
+  {"file":"2-roadmap.jpg","query":"roadmap"},
+  {"file":"3-missables.jpg","query":"missables"},
+  {"file":"4-spoiler.jpg","query":"spoiler"}
+]

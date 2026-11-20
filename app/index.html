@@ -1,14 +1,72 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#101614">
-<title>Leonida Trophy Guide</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Leonida Trophy Guide</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
 </head>
 <body>
-<div id="app" class="app-shell" aria-live="polite"></div>
-<script src="app.js"></script>
+  <header class="masthead">
+    <div class="frame brand">
+      <a href="index.html" class="wordmark"><span class="mark" aria-hidden="true">L</span> LEONIDA <span>FIELD OFFICE</span></a>
+      <span class="edition">GRAND THEFT AUTO VI <b> / </b> PS5 TROPHY GUIDE</span>
+    </div>
+  </header>
+  <main class="frame">
+    <section class="hero" aria-labelledby="title">
+      <div class="intro">
+        <p class="eyebrow">FIELD GUIDE <span> / </span> VOL. 01</p>
+        <h1 id="title">Road to <em>Platinum.</em></h1>
+        <p class="tagline">A pocket guide to all 55 trophies across Leonida.</p>
+      </div>
+      <div class="progressCard">
+        <span class="eyebrow">TROPHIES EARNED</span>
+        <div class="score"><strong id="earned">0</strong><span> / 55</span></div>
+        <progress id="meter" max="55" value="0" aria-label="Trophies earned"></progress>
+        <div class="gradeLine"><span>01 platinum</span><span>02 gold</span><span>06 silver</span><span>46 bronze</span></div>
+      </div>
+    </section>
+    <div class="toolbar">
+      <nav id="tabs" aria-label="Guide views">
+        <button data-view="list" aria-pressed="true">Checklist</button>
+        <button data-view="route" aria-pressed="false">Roadmap</button>
+      </nav>
+      <div class="settings">
+        <label class="shield"><input id="shield" type="checkbox"> Spoiler shield</label>
+        <button id="export">Export</button>
+        <button id="import">Import</button>
+        <input id="backup" type="file" accept=".json,application/json" hidden>
+      </div>
+    </div>
+    <section id="list" aria-label="Trophy checklist">
+      <div class="controls">
+        <div id="filters" role="group" aria-label="Filter by trophy kind"></div>
+        <label class="search"><span class="sr">Search trophies</span><input id="search" type="search" placeholder="Search trophies"></label>
+      </div>
+      <div class="workspace">
+        <div class="registry">
+          <div class="listHeader">
+            <strong id="results"></strong>
+            <button id="clearStage" hidden>Clear stage</button>
+            <label><input id="unfinished" type="checkbox"> Unearned only</label>
+          </div>
+          <p id="empty" hidden>No matching trophies. Try a different search or filter.</p>
+          <ul id="rows"></ul>
+        </div>
+        <aside id="detail" aria-label="Trophy guide" aria-live="polite"></aside>
+      </div>
+    </section>
+    <section id="route" aria-labelledby="routeTitle" hidden>
+      <div class="routeIntro">
+        <div><p class="eyebrow">THE FIVE STAGES</p><h2 id="routeTitle">Platinum roadmap</h2></div>
+        <p>Suggested order. The six watch flags are precautions; the official list does not confirm permanent lockouts.</p>
+      </div>
+      <div id="stages"></div>
+    </section>
+    <footer><span>LEONIDA FIELD OFFICE <b> / </b> OFFLINE EDITION</span><span id="notice" role="status">Progress is stored in this browser.</span></footer>
+  </main>
 </body>
 </html>

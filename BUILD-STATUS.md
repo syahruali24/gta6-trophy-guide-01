@@ -1,5 +1,5 @@
 # Build status
 
-The offline guide and tracker are implemented in `app/`. The trophy records retain the official starter names, descriptions and grades and include original field notes, source labels, stage data, counters and six cautious story checkpoints.
+The application is static and has no dependency installation or network requirement. The output program uses the unchanged competition dossier library.
 
-Validation is provided by `scripts/test-app.mjs` and `scripts/check.mjs`. Packaging uses the unchanged vendored dossier builder.
+Verification covers the official catalog, parity with the offline copy, the four browser captures, and tracker behavior in Chrome. The six watch flags indicate precautionary timing rather than verified permanent lockouts.

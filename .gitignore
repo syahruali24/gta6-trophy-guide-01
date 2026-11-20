@@ -2,5 +2,3 @@
 /out2/
 /gta6-trophy-guide-01-kit/
 *.tar.gz
-node_modules/
-.DS_Store
